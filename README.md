@@ -1,2 +1,2 @@
 # MyShop
-MyShop for selling any thing in fluuter
+MyShop for selling any thing in flutter
